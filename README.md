@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
  * 우아한 테크코스 3기 프리코스 **열심히** 진행 중 😏  
-   * 1주차 미션: [java-baseball-precourse](https://github.com/JinseongHwang/java-baseball-precourse/tree/develop)
+   * 1주차 미션: [java-baseball-precourse](https://github.com/JinseongHwang/java-baseball-precourse/tree/develop)  /  [회고록](https://blog.naver.com/eddy5360/222160109693)
    * 2주차 미션: [java-racingcar-precourse](https://github.com/JinseongHwang/java-racingcar-precourse/tree/develop)
 
 <div align=right>
