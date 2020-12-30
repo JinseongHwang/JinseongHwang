@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Algorithm probelm solving** and **Back-End development**.
 - 👯 I’m looking to collaborate on making **Web services.**
+- ⌨ I have development experience in C,C++ / Python / Java / JSP / PHP / HTML+CSS / Javascript.
+- ❤ The most familiar editor is Visual Studio, Visual Studio Code, IntelliJ IDEA.
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
