@@ -2,12 +2,12 @@
 
  💻 An unordinary computer science student.
 
-- 🌱 I’m currently learning **Algorithm probelm solving** and **Back-End development.**
+- 🌱 I’m currently learning **Algorithm probelm solving** and **Back-End development**.
 - 👯 I’m looking to collaborate on making **Web services.**
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
-- 📫 How to reach me: You can contact me via **[Email](mailto:eddy5360@naver.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**
+- 📫 How to reach me: You can contact me via **[Email](mailto:eddy5360@naver.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**.
 
 <div align=center>
 
