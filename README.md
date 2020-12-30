@@ -7,7 +7,7 @@
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
-- 📫 How to reach me: You can contact me via **[Email](eddy5360@naver.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**
+- 📫 How to reach me: You can contact me via **[Email](Email:eddy5360@naver.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**
 
 <div align=center>
 
