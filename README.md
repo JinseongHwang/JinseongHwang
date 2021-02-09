@@ -2,7 +2,7 @@
 
  💻 An unordinary computer science student.
 
-- 🌱 I’m currently learning **Algorithm probelm solving** and **Back-End development**.
+- 🌱 I’m currently learning **Back-End development** and **Recommender system(CF)**.
 - 👯 I’m looking to collaborate on making **Web services.**
 - ⌨ I have development experience in C,C++ / Python / Java / JSP / PHP / HTML+CSS / Javascript.
 - ❤ The most familiar editors are Visual Studio, Visual Studio Code, IntelliJ IDEA and WebStorm.
