@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Back-End development** and **Recommender system(CF)**.
 - 👯 I’m looking to collaborate on making **Web services.**
-- ⌨ I have development experience in C,C++ / Python / Java / JSP / PHP / HTML+CSS / Javascript.
-- ❤ The most familiar editors are Visual Studio, Visual Studio Code, IntelliJ IDEA and WebStorm.
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
@@ -24,6 +22,9 @@
 **JinseongHwang/JinseongHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- ⌨ I have development experience in C,C++ / Python / Java / JSP / PHP / HTML+CSS / Javascript.
+- ❤ The most familiar editors are Visual Studio, Visual Studio Code, IntelliJ IDEA and WebStorm.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
