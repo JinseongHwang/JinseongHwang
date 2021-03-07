@@ -9,13 +9,13 @@
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy5360@naver.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![JSP](https://img.shields.io/badge/-jsp-black?style=flat-square&logo=jsp)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -28,7 +28,6 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=Slack&logoColor=white)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Jinseong's github stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
