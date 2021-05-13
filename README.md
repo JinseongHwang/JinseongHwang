@@ -12,29 +12,17 @@
 [![Jinseong's github stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Spring](https://img.shields.io/badge/-spring-black?style=flat-square&logo=spring)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=jetbrains)
-![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=jetbrains)
-![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=flat-square&logo=jetbrains)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=Slack)
+![Jetbrains](https://img.shields.io/badge/-Jetbrains%20IDE-black?style=flat-square&logo=jetbrains)
 
 
 <!--
@@ -47,6 +35,20 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=jetbrains)
+![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=jetbrains)
+![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=Slack)
 
 - ⌨ I have development experience in C,C++ / Python / Java / JSP / PHP / HTML+CSS / Javascript.
 - ❤ The most familiar editors are Visual Studio, Visual Studio Code, IntelliJ IDEA and WebStorm.
