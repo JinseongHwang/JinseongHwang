@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Jetbrains](https://img.shields.io/badge/-Jetbrains%20IDE-black?style=flat-square&logo=jetbrains)
+![JetBrains](https://img.shields.io/badge/-JetBrains%20IDE-black?style=flat-square&logo=jetbrains)
 
 
 <!--
