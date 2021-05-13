@@ -2,7 +2,7 @@
 
  💻 An unordinary computer science student.
 
-- 🌱 I’m currently learning **Back-End development** and **Computer Science**.
+- 🌱 I’m currently learning **Back-End development(Spring Framework)**.
 - 👯 I’m looking to collaborate on making **Web services.**
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
