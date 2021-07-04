@@ -3,11 +3,12 @@
  💻 An unordinary computer science student.
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
+- 🤔 I’m interested in Java, Spring, OOP, DDD.
 - 👯 I’m looking to collaborate on making **Web services.**
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
-- 📫 How to reach me: You can contact me via **[Email](mailto:eddy5360@naver.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**.
+- 📫 How to reach me: You can contact me via **[Email](mailto:jinseong.dev@gmail.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**.
 
 [![Jinseong's github stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
