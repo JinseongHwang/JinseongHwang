@@ -20,10 +20,10 @@
 ![Spring](https://img.shields.io/badge/-spring-black?style=flat-square&logo=spring)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PyQt5](https://img.shields.io/badge/-PyQt5-black?style=flat-square&logo=Qt)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![JetBrains](https://img.shields.io/badge/-JetBrains%20IDE-black?style=flat-square&logo=jetbrains)
 
 
 <!--
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=Slack)
+![JetBrains](https://img.shields.io/badge/-JetBrains%20IDE-black?style=flat-square&logo=jetbrains)
 
 - ⌨ I have development experience in C,C++ / Python / Java / JSP / PHP / HTML+CSS / Javascript.
 - ❤ The most familiar editors are Visual Studio, Visual Studio Code, IntelliJ IDEA and WebStorm.
