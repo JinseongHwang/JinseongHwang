@@ -3,7 +3,7 @@
  💻 An unordinary computer science student.
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
-- 🤔 I’m interested in **Java, Spring, OOP, DDD**.
+- 🤔 I’m interested in **Java, Spring, OOP, Clean Code✨**.
 - 👯 I’m looking to collaborate on making **Web services.**
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
@@ -13,18 +13,25 @@
 [![Jinseong's github stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PyQt5](https://img.shields.io/badge/-PyQt5-black?style=flat-square&logo=Qt)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-
+<p align="center">
+ <img src="https://img.shields.io/badge/-Main Dish-white?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
+ <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/-Side Dish-white?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
+ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+ <img src="https://img.shields.io/badge/-PyQt5-black?style=flat-square&logo=Qt"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
+ <img src="https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins"/>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+</p>
 
 <!--
 **JinseongHwang/JinseongHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
