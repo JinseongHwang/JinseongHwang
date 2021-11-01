@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
- 💻 An unordinary computer science student.
+ 💻 An unordinary computer science student.    
+ 🏢 I'm an intern at the [@medipresso](https://github.com/medipresso)
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
 - 🤔 I’m interested in **Java, Spring, OOP, Clean Code✨**.
