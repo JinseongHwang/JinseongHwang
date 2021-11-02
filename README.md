@@ -14,14 +14,14 @@
 [![Jinseong's github stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Main Dish-white?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
  <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/-Side Dish-white?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-🥗 Side Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
