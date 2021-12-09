@@ -4,7 +4,7 @@
  🏢 I'm an intern at the [@medipresso](https://github.com/medipresso)
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
-- 🤔 I’m interested in **Java, Spring, OOP, Clean Code✨**.
+- 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 👯 I’m looking to collaborate on making **Web services.**
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
@@ -23,12 +23,11 @@
 <p align="center">
  <img src="https://img.shields.io/badge/-🥗 Side Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/-PyQt5-black?style=flat-square&logo=Qt"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
+ <img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ"/>
  <img src="https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins"/>
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
