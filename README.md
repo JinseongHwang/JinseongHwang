@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 
 </div>
 
+|Period|Belong to|Role|
+|:---:|:---:|:---:|
+|2017.03. ~ now|Computer Science, Dong-A University|Senior|
+|2021.09. ~ 2022.01.|Medipresso Inc.|Backend developer|
+|2022.01. ~ now|Journeysome Inc.|Backend developer|
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
