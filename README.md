@@ -11,7 +11,14 @@
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:jinseong.dev@gmail.com)** and **[Tech Blog](https://blog.naver.com/eddy5360)**.
 
-[![Jinseong's github stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<details markdown="1">
+<summary><strong>:octocat: GitHub Stats</strong></summary>
+<br/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true&line_height=24">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6">
+</p>
+</details>
 
 <p align="center">
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
@@ -36,18 +43,6 @@
 **JinseongHwang/JinseongHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<div align=center>
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-|Period|Belong to|Role|
-|:---:|:---:|:---:|
-|2017.03. ~ now|Computer Science, Dong-A University|Senior|
-|2021.09. ~ 2022.01.|Medipresso Inc.|Backend developer|
-|2022.01. ~ now|Journeysome Inc.|Backend developer|
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
