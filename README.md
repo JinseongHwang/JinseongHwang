@@ -15,8 +15,8 @@
 <summary><strong>:octocat: GitHub Stats</strong></summary>
 <br/>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true&line_height=24">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JinseongHwang&hide=stars&show_icons=true&count_private=true&line_height=24" align="center" style="width: 50%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&layout=compact&langs_count=6" align="center" style="width: 35%">
 </p>
 </details>
 
