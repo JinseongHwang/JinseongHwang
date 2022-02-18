@@ -1,11 +1,9 @@
 ### Hi there 👋 
 
  💻 An unordinary computer science student.    
- 🏢 I'm an intern at the [@medipresso](https://github.com/medipresso)
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
-- 👯 I’m looking to collaborate on making **Web services.**
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
@@ -70,4 +68,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👯 I’m looking to collaborate on making **Web services.**
 -->
