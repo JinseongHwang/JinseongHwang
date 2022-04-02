@@ -27,10 +27,7 @@
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/-🥗 Side Dish-white?style=flat-square"/>
- <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium"/>
- <img src="https://img.shields.io/badge/-PyQt5-black?style=flat-square&logo=Qt"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
