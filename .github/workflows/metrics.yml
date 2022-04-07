@@ -2,7 +2,8 @@ name: Metrics
 on:
   # Schedule daily updates
   # Run on AM 5:00 in Republic of Korea
-  schedule: [{cron: "0 20 * * *"}]
+  schedule: 
+    - cron: '0 20 * * *'
   # Run workflow manually
   workflow_dispatch:
   # Run workflow when pushing on master/main
