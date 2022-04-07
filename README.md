@@ -9,15 +9,10 @@
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:jinseong.dev@gmail.com)** and **[Tech Blog](https://jinseong-dev.tistory.com)**.
 
-<details markdown="1">
-<summary><strong>:octocat: GitHub Stats</strong></summary>
-<br/>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JinseongHwang&theme=discord_old_blurple&hide=stars&show_icons=true&count_private=true&line_height=24" align="center" style="width: 50%">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&theme=discord_old_blurple&layout=compact&langs_count=6" align="center" style="width: 35%">
+<p align="center">
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 </p>
-</details>
-
+ 
 <p align="center">
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
@@ -69,4 +64,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 👯 I’m looking to collaborate on making **Web services.**
+
+<details markdown="1">
+<summary><strong>:octocat: GitHub Stats</strong></summary>
+<br/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JinseongHwang&theme=discord_old_blurple&hide=stars&show_icons=true&count_private=true&line_height=24" align="center" style="width: 50%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&theme=discord_old_blurple&layout=compact&langs_count=6" align="center" style="width: 35%">
+</p>
+</details>
+
 -->
