@@ -10,7 +10,7 @@
 - 📫 How to reach me: You can contact me via **[Email](mailto:jinseong.dev@gmail.com)** and **[Tech Blog](https://jinseong-dev.tistory.com)**.
 
 <p align="center">
- <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
  
 <p align="center">
