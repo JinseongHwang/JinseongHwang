@@ -1,8 +1,10 @@
-### Hi there 👋 
+<hr/>
 
-#### My Resume is here! 👉 [Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
+<div align="center">
+  <h3 style="background-color:#33475b">My Resume is here! 👉 <a href="https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9">Resume</a></h3>
+</div>
 
- 💻 An unordinary computer science student.    
+<hr/>
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
@@ -75,5 +77,7 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&theme=discord_old_blurple&layout=compact&langs_count=6" align="center" style="width: 35%">
 </p>
 </details>
+
+#### My Resume is here! 👉 [Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
 
 -->
