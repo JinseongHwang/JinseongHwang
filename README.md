@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+#### My Resume is here! 👉 [Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
+
  💻 An unordinary computer science student.    
 
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
