@@ -1,7 +1,7 @@
 <hr/>
 
 <div align="center">
-  <h3 style="background-color:#33475b">My Resume is here! 👉 <a href="https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9">Resume</a></h3>
+  <h3>My Resume is here! 👉 <a href="https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9">Resume</a></h3>
 </div>
 
 <hr/>
