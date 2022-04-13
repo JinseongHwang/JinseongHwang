@@ -30,6 +30,7 @@
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
+ <img src="https://img.shields.io/badge/-InfluxDB-black?style=flat-square&logo=InfluxDB"/>
  <img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ"/>
  <img src="https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins"/>
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
