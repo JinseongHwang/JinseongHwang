@@ -14,9 +14,13 @@
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)** and **[Tech Blog](https://jinseong-dev.tistory.com)**.
 
+<details markdown="1">
+<summary><strong>:octocat: Contribution Graph</strong></summary>
+<br/>
 <p align="center">
  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
+</details>
  
 <p align="center">
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
