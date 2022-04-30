@@ -1,11 +1,3 @@
-<hr/>
-
-<div align="center">
-  <h3>My Resume is here! 👉 <a href="https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9">Resume</a></h3>
-</div>
-
-<hr/>
-
 - 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
@@ -13,14 +5,7 @@
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)** and **[Tech Blog](https://jinseong-dev.tistory.com)**.
-
-<details markdown="1">
-<summary><strong>:octocat: Contribution Graph</strong></summary>
-<br/>
-<p align="center">
- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</p>
-</details>
+- 📄 My Resume is here! 👉 **[RESUME](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)**
  
 <p align="center">
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
@@ -81,6 +66,14 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JinseongHwang&theme=discord_old_blurple&hide=stars&show_icons=true&count_private=true&line_height=24" align="center" style="width: 50%">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JinseongHwang&theme=discord_old_blurple&layout=compact&langs_count=6" align="center" style="width: 35%">
+</p>
+</details>
+
+<details markdown="1">
+<summary>:octocat: Contribution Graph</summary>
+<br/>
+<p align="center">
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
 </details>
 
