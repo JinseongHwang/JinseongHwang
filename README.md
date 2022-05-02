@@ -3,7 +3,7 @@
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
-- 💬 If you have any questions about me, ask anything.
+- 💬 If you have any questions about me, **ask anything.**
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)** and **[Tech Blog](https://jinseong-dev.tistory.com)**.
 - 📄 My Resume is here! 👉 **[RESUME](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)**
  
