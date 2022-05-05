@@ -1,3 +1,5 @@
+📄 My Resume is here! 👉 **[RESUME](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)**
+
 - 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
@@ -5,7 +7,6 @@
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, **ask anything.**
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)** and **[Tech Blog](https://jinseong-dev.tistory.com)**.
-- 📄 My Resume is here! 👉 **[RESUME](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)**
  
 <p align="center">
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
