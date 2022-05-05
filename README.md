@@ -1,4 +1,5 @@
-📄 My CV is here! 👉 **[CV](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)**
+
+[![Resume](https://img.shields.io/badge/My-Resume-DFAB01?style=for-the-badge&logo=notion&logoColor=white)](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
 
 - 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
 - 🌱 I’m currently learning **Back-End development(Spring Framework)**.
