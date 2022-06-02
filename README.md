@@ -27,6 +27,7 @@
  <img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ"/>
  <img src="https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins"/>
  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws"/>
+ <img src="https://img.shields.io/badge/gRPC-black?style=flat-square&logo=google"/>
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/-👀 I will study...-white?style=flat-square"/>
