@@ -1,5 +1,4 @@
-
-[![Resume](https://img.shields.io/badge/Jinseong's-Resume-DFAB01?style=for-the-badge&logo=notion&logoColor=white)](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
+#### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9))
 
 - 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
 - 🌱 I’m currently learning **Back-End development**.
@@ -8,34 +7,38 @@
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
+
+#### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
-<p align="center">
+<p>
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
  <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
- <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+ <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
 </p>
-<p align="center">
+<p>
  <img src="https://img.shields.io/badge/-🥗 Side Dish-white?style=flat-square"/>
- <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
- <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
  <img src="https://img.shields.io/badge/NginX-black?style=flat-square&logo=nginx"/>
  <img src="https://img.shields.io/badge/-InfluxDB-black?style=flat-square&logo=InfluxDB"/>
  <img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ"/>
  <img src="https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins"/>
  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws"/>
  <img src="https://img.shields.io/badge/gRPC-black?style=flat-square&logo=google"/>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
+
+<!--
 <p align="center">
  <img src="https://img.shields.io/badge/-👀 I will study...-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-Apache Kafka-black?style=flat-square&logo=ApacheKafka"/>
  <img src="https://img.shields.io/badge/-ELK Stack-black?style=flat-square&logo=ElasticStack"/>
  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes"/>
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
+-->
 
 <!--
 **JinseongHwang/JinseongHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -89,5 +92,7 @@ Here are some ideas to get you started:
 </details>
 
 #### My Resume is here! 👉 [Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
+
+[![Resume](https://img.shields.io/badge/Jinseong's-Resume-DFAB01?style=for-the-badge&logo=notion&logoColor=white)](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9)
 
 -->
