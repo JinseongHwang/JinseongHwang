@@ -7,7 +7,7 @@
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
-- 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)** and **[Tech Blog](https://jinseong.site)**.
+- 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
  
 <p align="center">
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
