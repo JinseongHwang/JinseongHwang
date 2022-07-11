@@ -12,7 +12,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spring RestTemplate 에러 핸들러 커스텀하기](https://jinseong.site/7)
 - [[단위 테스트] 단위 테스트란 무엇인가](https://jinseong.site/6)
-- [[단위 테스트] 단위 테스트의 목표](https://jinseong.site/5)
 - [[프로그래머스 SQL 고득점 Kit] 모든 레코드 조회하기](https://jinseong.site/4)
 - [About Me](https://jinseong.site/pages/About-Me)
 <!-- BLOG-POST-LIST:END -->
