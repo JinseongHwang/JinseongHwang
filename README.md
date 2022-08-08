@@ -18,6 +18,7 @@
 <!-- BLOG-POST-LIST:END -->
  
 <p>
+ <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
  <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
@@ -28,7 +29,6 @@
 </p>
  
 <!--
-<img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
 <p>
  <img src="https://img.shields.io/badge/-🥗 Side Dish-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/NginX-black?style=flat-square&logo=nginx"/>
