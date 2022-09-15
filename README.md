@@ -1,4 +1,4 @@
-#### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-578828b85b8e440684b2702d0a0d3da9))
+#### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-4c2ec7390af641d594ce7db69f6a3dd4))
 
 - 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
 - 🌱 I’m currently learning **Back-End development**.
