@@ -13,7 +13,6 @@
 - [Spring RestTemplate 에러 핸들러 커스텀하기](https://jinseong.site/7)
 - [[단위 테스트] 단위 테스트란 무엇인가](https://jinseong.site/6)
 - [[단위 테스트] 단위 테스트의 목표](https://jinseong.site/5)
-- [About Me](https://jinseong.site/pages/About-Me)
 <!-- BLOG-POST-LIST:END -->
  
 <p>
