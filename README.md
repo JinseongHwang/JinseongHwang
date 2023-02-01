@@ -1,4 +1,4 @@
-#### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-4c2ec7390af641d594ce7db69f6a3dd4))
+#### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-2ff7e25354684a399ec3d7cf11be6499))
 
 - 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
 - 🌱 I’m currently learning **Back-End development**.
@@ -7,13 +7,6 @@
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
-
-#### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Spring RestTemplate 에러 핸들러 커스텀하기](https://jinseong.site/7)
-- [[단위 테스트] 단위 테스트란 무엇인가](https://jinseong.site/6)
-- [[단위 테스트] 단위 테스트의 목표](https://jinseong.site/5)
-<!-- BLOG-POST-LIST:END -->
  
 <p>
  <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
