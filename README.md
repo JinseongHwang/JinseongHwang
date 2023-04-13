@@ -7,31 +7,23 @@
 - ⚡ Fun fact: I'm handsome.
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
- 
-<p>
- <img src="https://img.shields.io/badge/-🍽 Main Dish-white?style=flat-square"/>
- <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
- <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring"/>
- <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
- <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
- <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
- <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws"/>
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
-</p>
- 
+
+![Main](https://img.shields.io/badge/-🍽_Main_Dish-white?style=flat-square)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
+
+![Sub](https://img.shields.io/badge/-🥗_Side_Dish-white?style=flat-square)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=FastAPI)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
+
 <!--
-<p>
- <img src="https://img.shields.io/badge/-🥗 Side Dish-white?style=flat-square"/>
- <img src="https://img.shields.io/badge/NginX-black?style=flat-square&logo=nginx"/>
- <img src="https://img.shields.io/badge/-InfluxDB-black?style=flat-square&logo=InfluxDB"/>
- <img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ"/>
- <img src="https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins"/>
- <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws"/>
- <img src="https://img.shields.io/badge/gRPC-black?style=flat-square&logo=google"/>
-
-</p>
-
-
 <p align="center">
  <img src="https://img.shields.io/badge/-👀 I will study...-white?style=flat-square"/>
  <img src="https://img.shields.io/badge/-Apache Kafka-black?style=flat-square&logo=ApacheKafka"/>
