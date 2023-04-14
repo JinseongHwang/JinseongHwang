@@ -8,6 +8,10 @@
 - 💬 If you have any questions about me, ask anything.
 - 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
 
+#### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Main](https://img.shields.io/badge/-🍽_Main_Dish-white?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
