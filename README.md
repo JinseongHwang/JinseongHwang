@@ -1,12 +1,10 @@
 #### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-2ff7e25354684a399ec3d7cf11be6499))
 
-- 🔭 I’m currently working on **[TUNiB](https://www.tunib.ai/)**
-- 🌱 I’m currently learning **Back-End development**.
+- 🔭 I’m currently working as Back-end Engineer at **[TUNiB](https://www.tunib.ai/)**
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 😄 Pronouns: I will develop really hard every day!
-- ⚡ Fun fact: I'm handsome.
-- 💬 If you have any questions about me, ask anything.
-- 📫 How to reach me: You can contact me via **[Email](mailto:eddy.go@tunib.ai)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
+- ⚡ Fun fact: I love 🐱s.
+- 📫 Ask anything: Contact me via **[Email](mailto:jinseong.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
 
 #### 📝 Latest Blog Posts
 
