@@ -14,6 +14,8 @@
 - [[Spring] RestTemplate 에러 핸들러 커스텀하기](https://jinseong.site/7)
 <!-- BLOG-POST-LIST:END -->
 
+![JinseongHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&show_icons=true&theme=transparent)
+
 ![Main](https://img.shields.io/badge/-🍽_Main_Dish-white?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
