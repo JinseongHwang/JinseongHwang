@@ -18,6 +18,7 @@
 
 ![Main](https://img.shields.io/badge/-🍽_Main_Dish-white?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
