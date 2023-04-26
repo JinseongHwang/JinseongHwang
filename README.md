@@ -1,6 +1,6 @@
 #### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-2ff7e25354684a399ec3d7cf11be6499))
 
-- 🔭 I’m currently working as Back-end Engineer at **[TUNiB](https://www.tunib.ai/)**
+- 🔭 I’m currently working as Back-end Engineer at ...
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I love 🐱s.
