@@ -4,7 +4,7 @@
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I love 🐱s.
-- 📫 Ask anything: Contact me via **[Email](mailto:jinseong.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong.site)**.
+- 📫 Ask anything: Contact me via **[Email](mailto:jinseong.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong-dev.tistory.com/)**.
 
 #### 📝 Latest Blog Posts
 
@@ -14,7 +14,7 @@
 - [[Spring] RestTemplate 에러 핸들러 커스텀하기](https://jinseong.site/7)
 <!-- BLOG-POST-LIST:END -->
 
-![JinseongHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&show_icons=true&theme=transparent)
+<!-- ![JinseongHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&show_icons=true&theme=transparent) -->
 
 ![Main](https://img.shields.io/badge/-🍽_Main_Dish-white?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK)
@@ -29,7 +29,8 @@
 ![Sub](https://img.shields.io/badge/-🥗_Side_Dish-white?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=FastAPI)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![React.js](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 <!--
