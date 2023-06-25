@@ -9,9 +9,9 @@
 #### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Kotlin] 코루틴에 대해 차근차근 알아보자 - 1](https://jinseong.site/13)
-- [ChatGPT 똑똑하게 활용하기 &lpar;ft. Prompt Engineering&rpar;](https://jinseong.site/12)
-- [[PostgreSQL] 운영 중인 테이블에 인덱스 생성하기](https://jinseong.site/11)
+- [[Kotlin] 코루틴에 대해 차근차근 알아보자 - 1](https://jinseong-dev.tistory.com/13)
+- [ChatGPT 똑똑하게 활용하기 &lpar;ft. Prompt Engineering&rpar;](https://jinseong-dev.tistory.com/12)
+- [[PostgreSQL] 운영 중인 테이블에 인덱스 생성하기](https://jinseong-dev.tistory.com/11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![JinseongHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinseongHwang&show_icons=true&theme=transparent) -->
