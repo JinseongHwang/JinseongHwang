@@ -10,7 +10,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [애자일 개발을 하고 있지만 공부해 본 적 없는 분들을 위해](https://jinseong-dev.tistory.com/14)
-- [[Kotlin] 코루틴에 대해 차근차근 알아보자 - 1](https://jinseong-dev.tistory.com/13)
+- [[Kotlin] 코루틴에 대해 차근차근 알아보자 - 1편](https://jinseong-dev.tistory.com/13)
 - [ChatGPT 똑똑하게 활용하기 &lpar;ft. Prompt Engineering&rpar;](https://jinseong-dev.tistory.com/12)
 - [[PostgreSQL] 운영 중인 테이블에 인덱스 생성하기](https://jinseong-dev.tistory.com/11)
 - [[Spring] RestTemplate 에러 핸들러 커스텀하기](https://jinseong-dev.tistory.com/7)
