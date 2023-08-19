@@ -9,11 +9,11 @@
 #### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ELK] 초심자를 위한 Elasticsearch, Logstash, Kibana를 Docker로 실행하기](https://jinseong-dev.tistory.com/entry/ELK-%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Elasticsearch-Logstash-Kibana%EB%A5%BC-Docker%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
 - [Kafka 한국 사용자 모임 밋업 후기 &lpar;23.08.09&rpar;](https://jinseong-dev.tistory.com/entry/Kafka-%ED%95%9C%EA%B5%AD-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EB%B0%8B%EC%97%85-%ED%9B%84%EA%B8%B0-230809)
 - [[ELK] Elasticsearch, Logstash, Kibana를 설치+실행하고 간단하게 알아보자](https://jinseong-dev.tistory.com/entry/ELK-Elasticsearch-Logstash-Kibana%EB%A5%BC-%EC%84%A4%EC%B9%98%EC%8B%A4%ED%96%89%ED%95%98%EA%B3%A0-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [애자일 개발을 하고 있지만 공부해 본 적 없는 분들을 위해](https://jinseong-dev.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%A7%80%EB%A7%8C-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B8-%EC%A0%81-%EC%97%86%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%B4)
 - [[Kotlin] 코루틴에 대해 차근차근 알아보자 - 1편](https://jinseong-dev.tistory.com/entry/Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-1)
-- [ChatGPT 똑똑하게 활용하기 &lpar;ft. Prompt Engineering&rpar;](https://jinseong-dev.tistory.com/entry/ChatGPT-%EB%98%91%EB%98%91%ED%95%98%EA%B2%8C-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-ft-Prompt-Engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ![Main](https://img.shields.io/badge/-🍽_Main_Dish-white?style=flat-square)
