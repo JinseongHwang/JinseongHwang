@@ -1,12 +1,13 @@
-#### 😀 About Me ([Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-2ff7e25354684a399ec3d7cf11be6499))
+### 😀 About Me
 
+- 👋 **[Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-2ff7e25354684a399ec3d7cf11be6499)**
 - 🔭 I’m currently working as Software Engineer at **[Kurly](https://www.kurly.com/)**
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 😄 Pronouns: I will develop really hard every day!
 - ⚡ Fun fact: I love 🐱s.
 - 📫 Ask anything: Contact me via **[Email](mailto:jinseong.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong-dev.tistory.com/)**.
 
-#### 📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [[ELK] 엘라스틱서치 샤딩, 이 정도는 알고 사용하자](https://jinseong-dev.tistory.com/entry/ELK-%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%83%A4%EB%94%A9-%EC%9D%B4-%EC%A0%95%EB%8F%84%EB%8A%94-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
