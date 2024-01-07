@@ -10,11 +10,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[회고] 2023 생각 스냅샷](https://jinseong-dev.tistory.com/38)
 - [[MongoDB] Dynamic field name&lpar;동적 필드명&rpar;을 꼭 사용해야 하나요?](https://jinseong-dev.tistory.com/37)
 - [[Kotlin] &quot;원시 값과 문자열을 포장하라&quot; 성능 최적화하기](https://jinseong-dev.tistory.com/36)
 - [[React] Maximum update depth exceeded 에러를 해결한 방법](https://jinseong-dev.tistory.com/31)
 - [[React/TS] MUI DataGrid로 수정 가능한 테이블 만들기](https://jinseong-dev.tistory.com/30)
-- [[ELK] 엘라스틱서치 샤딩, 이 정도는 알고 사용하자](https://jinseong-dev.tistory.com/29)
 <!-- BLOG-POST-LIST:END -->
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
