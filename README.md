@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [[회고] 2023 생각 스냅샷](https://jinseong-dev.tistory.com/38)
 - [[MongoDB] Dynamic field name&lpar;동적 필드명&rpar;을 꼭 사용해야 하나요?](https://jinseong-dev.tistory.com/37)
-- [[Kotlin] &quot;원시 값과 문자열을 포장하라&quot; 성능 최적화하기](https://jinseong-dev.tistory.com/36)
+- [[Kotlin] value class를 활용해서 &quot;원시 값과 문자열을 포장하라&quot; 성능 최적화하기](https://jinseong-dev.tistory.com/36)
 - [[React] Maximum update depth exceeded 에러를 해결한 방법](https://jinseong-dev.tistory.com/31)
 - [[React/TS] MUI DataGrid로 수정 가능한 테이블 만들기](https://jinseong-dev.tistory.com/30)
 <!-- BLOG-POST-LIST:END -->
