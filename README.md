@@ -1,6 +1,5 @@
 ### 😀 About Me
 
-- 👋 **[Resume](https://jinseong-dev.notion.site/Jinseong-Hwang-2ff7e25354684a399ec3d7cf11be6499)**
 - 🔭 I’m currently working as Software Engineer at **[Kurly](https://www.kurly.com/)**
 - 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
 - 😄 Pronouns: I will develop really hard every day!
