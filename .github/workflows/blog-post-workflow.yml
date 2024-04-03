@@ -19,3 +19,4 @@ jobs:
         with:
           feed_list: "https://jinseong-dev.tistory.com/rss"
           max_post_count: 5
+          retry_count: 5
