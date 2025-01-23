@@ -1,10 +1,31 @@
 ### 😀 About Me
 
-- 🔭 I’m currently working as Software Engineer at **[Kurly](https://www.kurly.com/)**
-- 🤔 I’m interested in **OOP💊, Clean Code✨, High Performance🚀**.
-- 😄 Pronouns: I will develop really hard every day!
-- ⚡ Fun fact: I love 🐱s.
-- 📫 Ask anything: Contact me via **[Email](mailto:jinseong.dev@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/jinseong-hwang/)** and **[Tech Blog](https://jinseong-dev.tistory.com/)**.
+👋 **I am a highly driven Software Engineer specializing in designing and building efficient, scalable backend systems.** My primary focus is on creating robust architectures and delivering high-quality software that aligns with both business objectives and technical excellence. I have hands-on experience working with modern frameworks, databases, and distributed systems.
+
+Recently, I’ve been leveraging AI tools to boost development productivity and optimize workflows, staying in step with the rapidly evolving tech landscape. I’m passionate about continually refining my skills by exploring new technologies and methodologies that foster superior software development practices.
+
+My core interests include backend architecture, scalable system design, database optimization, and adopting innovative tools to solve complex engineering challenges. I also enjoy collaborating with like-minded professionals to exchange knowledge, enhance team efficiency, and achieve impactful results in software development.
+
+### ⚒️ Skill Sets
+
+1. **Backend**
+    - Java 8+, Kotlin 1+
+    - Spring Boot 2+, Spring Security, Spring Kafka, Spring Data, ...
+    - Hibernate
+    - JUnit 5+, Kotest
+    - Kotlin coroutines
+2. **DBMS**
+    - MySQL(MariaDB)
+    - Redis
+    - MongoDB, Elasticsearch
+3. **Frontend**
+    - Javascript, Typescript
+    - React.js
+    - MUI (Google's Material Design)
+4. **ETC**
+    - Docker
+    - Apache Kafka 2+
+    - Various AI-driven productivity tools...
 
 ### 📝 Latest Blog Posts
 
