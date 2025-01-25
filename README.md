@@ -30,11 +30,11 @@ My core interests include backend architecture, scalable system design, database
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [상속은 무엇인가?](https://jinseong-dev.tistory.com/54)
 - [계약에 의한 설계&lpar;Design by Contract&rpar;를 실전에 적용하기](https://jinseong-dev.tistory.com/49)
 - [[Kafka] 프로듀서의 내부 구조와 최적화 전략](https://jinseong-dev.tistory.com/46)
 - [AULA F87&lpar;독거미&rpar;에서 맥북 fn키 고정이 안되는 문제 해결](https://jinseong-dev.tistory.com/44)
 - [[독후감] 비상식적 성공법칙](https://jinseong-dev.tistory.com/43)
-- [[Kafka] 넓고 얕게 카프카를 이해해보자](https://jinseong-dev.tistory.com/42)
 <!-- BLOG-POST-LIST:END -->
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinseongHwang&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
