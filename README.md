@@ -29,7 +29,7 @@ My core interests include backend architecture, scalable system design, database
   
 ### 📚 Publications
 
-- 클로드 코드 제대로 시작하기, 길벗, 2026 ([교보문고](https://product.kyobobook.co.kr/detail/S000220662769))
+- 클로드 코드 제대로 시작하기, 길벗, 2026
 
 ### 📝 Latest Blog Posts
 
