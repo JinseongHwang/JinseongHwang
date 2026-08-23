@@ -26,6 +26,10 @@ My core interests include backend architecture, scalable system design, database
     - Docker
     - Apache Kafka 2+
     - Various AI-driven productivity tools...
+  
+### 📚 Publications
+
+- 클로드 코드 제대로 시작하기, 길벗, 2026 ([교보문고](https://product.kyobobook.co.kr/detail/S000220662769))
 
 ### 📝 Latest Blog Posts
 
